@@ -2,7 +2,7 @@
   "name": "amethyst-compiler",
   "license": "MIT",
   "author": "dell-optiplex-790",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "dependencies": {
     "terser": "^5.48.0"
   },
