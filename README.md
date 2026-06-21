@@ -1,7 +1,7 @@
 # Project Amethyst Binary Compiler (amtc)
 This is a C-style "compiler" and linker for JavaScript. It outputs binaries with a `AMT\x00` header and should be used for compiling your Amethyst apps.
 ## CLI
-The main binary is `amtc`. To install it, run `npm i amtc -g`.
+The main binary is `amtc`. To install it, run `npm i amethyst-compiler -g`.
  * `out` - The binary's name (example: `--out=hello`)
  * `in` - (optional) The main JS file (example: `--in=index.js`)
  * `include` - (optional) Additional libraries to include (example: `--include=util.js;something.js`)

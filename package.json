@@ -1,7 +1,8 @@
 {
-  "name": "amtc",
+  "name": "amethyst-compiler",
   "license": "MIT",
   "author": "dell-optiplex-790",
+  "version": "1.0.0",
   "dependencies": {
     "terser": "^5.48.0"
   },
