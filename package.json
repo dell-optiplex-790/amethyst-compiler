@@ -1,0 +1,11 @@
+{
+  "name": "amtc",
+  "license": "MIT",
+  "author": "dell-optiplex-790",
+  "dependencies": {
+    "terser": "^5.48.0"
+  },
+  "bin": {
+    "amtc": "amtc.js"
+  }
+}
